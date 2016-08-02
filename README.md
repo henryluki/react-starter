@@ -1,2 +1,2 @@
 # react-starter
-React Stater --- React for ui. Redux for the store. Express for the server
+React Stater --- React for ui. Redux for store. Express for server
